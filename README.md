@@ -33,7 +33,7 @@
 
 ![App Screenshot](./screenshot.png)
 
-<sub>_(Don’t see an image? Add your screenshot as `screenshot.png` in the repo root!)_</sub>
+
 
 ---
 
