@@ -1,6 +1,15 @@
 # 🚀 AI-Powered Career Path
 
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel)](https://job-match-jade.vercel.app/) 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > *Unlock your dream job, powered by AI. Where talent meets opportunity, instantly.*
+
+---
+
+## 🌐 Live Demo
+
+▶️ **Check out the deployed app:** [job-match-jade.vercel.app](https://job-match-jade.vercel.app/)
 
 ---
 
@@ -20,12 +29,20 @@
 
 ---
 
+## 🖼️ App Screenshot
+
+![App Screenshot](./screenshot.png)
+
+<sub>_(Don’t see an image? Add your screenshot as `screenshot.png` in the repo root!)_</sub>
+
+---
+
 ## 🚦 Quickstart
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/ai-powered-career-path.git
-   cd ai-powered-career-path-main
+   git clone https://github.com/yugallohani/JobMatch.git
+   cd JobMatch
    ```
 2. **Install dependencies:**
    ```bash
@@ -66,7 +83,7 @@ Let’s build the future of work—together!
 
 ## 📬 Contact & Community
 
-- Issues? Suggestions? [Open an Issue](https://github.com/your-username/ai-powered-career-path/issues)
+- Issues? Suggestions? [Open an Issue](https://github.com/yugallohani/JobMatch/issues)
 - Want to chat? [Join our Discord](#) *(coming soon!)*
 
 ---
